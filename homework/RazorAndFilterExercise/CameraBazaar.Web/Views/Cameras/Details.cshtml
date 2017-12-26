@@ -1,0 +1,54 @@
+﻿@model DetailsCameraModel
+@{
+    ViewData["Title"] = $"Details for {Model.Make} {Model.Model}";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="container">
+    <div class="col-xs-6" style="padding: 15px; border: 1px solid black;">
+        <div class="col-xs-12">
+            @Model.Make @Model.Model - $@Model.Price - <span style="color: @(Model.Stock == "IN STOCK" ? "green" : "red")">@Model.Stock</span>
+        </div>  
+        <div class="col-xs-12">
+            <a href="/home/profile?id=@Model.UserId">@Model.Username</a>
+        </div>  
+        <div class="col-xs-12">
+            <img src="@Model.ImageUrl" alt="camera" width="70" height="50"/>
+        </div>
+        <div class="col-xs-12">
+            <div>
+                <div class="col-xs-6" style="text-align: right;">Is Full Frame:</div>
+                <div class="col-xs-6">@(Model.IsFullFrame ? "Yes" : "No")</div>
+            </div>
+            <div>
+                <div class="col-xs-6" style="text-align: right;">Min Shutter Speed:</div>
+                <div class="col-xs-6">@Model.MinShutterSpeed"</div>
+            </div>
+            <div>
+                <div class="col-xs-6" style="text-align: right;">Max Shutter Speed:</div>
+                <div class="col-xs-6">@Model.MaxShutterSpeed/8000</div>
+            </div>
+            <div>
+                <div class="col-xs-6" style="text-align: right;">MinISO:</div>
+                <div class="col-xs-6">@Model.MinISO</div>
+            </div>
+            <div>
+                <div class="col-xs-6" style="text-align: right;">MaxISO:</div>
+                <div class="col-xs-6">@Model.MaxISO</div>
+            </div>
+            <div>
+                <div class="col-xs-6" style="text-align: right;">Video Resolution:</div>
+                <div class="col-xs-6">@Model.VideoResolution</div>
+            </div>
+            <div>
+                <div class="col-xs-6" style="text-align: right;">LightMetering:</div>
+                <div class="col-xs-6">@Model.LightMetering</div>
+            </div>
+            <div>
+                <div class="col-xs-6" style="text-align: right;">Description:</div>
+                <div class="col-xs-6">@Model.Description</div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Data\bin\Debug\netstandard2.0\News.Data.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Data\bin\Debug\netstandard2.0\News.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Data\obj\Debug\netstandard2.0\News.Data.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Data\obj\Debug\netstandard2.0\News.Data.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Data\obj\Debug\netstandard2.0\News.Data.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Data\obj\Debug\netstandard2.0\News.Data.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Data\bin\Debug\netstandard2.0\News.Data.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Data\obj\Debug\netstandard2.0\News.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Data\obj\Debug\netstandard2.0\News.Data.pdb

@@ -1,0 +1,11 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.runtimeconfig.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.runtimeconfig.dev.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\FluffyDuffyMunchkinCats\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.pdb

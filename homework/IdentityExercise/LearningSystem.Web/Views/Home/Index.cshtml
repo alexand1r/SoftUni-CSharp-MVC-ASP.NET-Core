@@ -1,0 +1,48 @@
+﻿@using LearningSystem.Web.Infrastructure
+@model IEnumerable<CourseModel>
+
+@{
+    ViewData["Title"] = "All Courses | Home Page";
+}
+
+<h2>All Courses</h2>
+<br/>
+
+@if (Model == null)
+{
+    <h2>There are no courses at the moment.</h2>
+}
+else
+{
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Trainer</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+            @foreach (var course in Model)
+            {
+                <tr>
+                    <td>@course.Name</td>
+                    <td>@course.Description</td>
+                    <td>@course.Trainer</td>
+                    <td>@course.StartDate.ToShortDateString()</td>
+                    <td>@course.EndDate.ToShortDateString()</td>
+                    @if (this.User.IsInRole(GlobalConstants.StudentRole))
+                    {
+                        <td>
+                            <a class="btn btn-primary" href="students/signincourse?id=@course.Id">SignUp</a>
+                            <a class="btn btn-danger" href="students/signoutofcourse?id=@course.Id">SignOut</a>
+                        </td>
+                    }
+                </tr> 
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,16 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.dev.json

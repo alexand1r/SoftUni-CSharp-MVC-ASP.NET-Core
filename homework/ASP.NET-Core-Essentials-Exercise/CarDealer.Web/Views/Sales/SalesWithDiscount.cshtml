@@ -1,0 +1,43 @@
+﻿@model SalesWithDiscount 
+
+@{
+    ViewData["Title"] = $"Sales With Discount - {Model.Discount}";
+}
+
+<h2>All Sales With Discount - @Model.Discount</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+    <tr>
+        <th>Car</th>        
+        <th>Customer</th>        
+        <th>Price With Discount</th>        
+        <th>Price Without Discount</th>
+        <th>Discount</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var sale in Model.Sales)
+    {
+        <tr>
+            <td>
+                <ul>
+                    <li>@sale.Car.Model</li>
+                    <li>@sale.Car.Make</li>
+                    <li>@sale.Car.TravelledDistance</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>@sale.Customer.Name</li>
+                    <li>@sale.Customer.BirthDate.ToShortDateString()</li>
+                </ul>
+            </td>
+            <td>@sale.PriceWithDiscount</td>
+            <td>@sale.PriceWithoutDiscount</td>
+            <td>@Model.Discount</td>
+        </tr>
+    }
+    </tbody>
+</table>
+

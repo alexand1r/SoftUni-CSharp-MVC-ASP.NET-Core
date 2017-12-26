@@ -1,0 +1,13 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\bin\Debug\netstandard2.0\News.Services.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\bin\Debug\netstandard2.0\News.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\bin\Debug\netstandard2.0\News.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\bin\Debug\netstandard2.0\News.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\bin\Debug\netstandard2.0\News.Data.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\obj\Debug\netstandard2.0\News.Services.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\obj\Debug\netstandard2.0\News.Services.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\obj\Debug\netstandard2.0\News.Services.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\obj\Debug\netstandard2.0\News.Services.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\obj\Debug\netstandard2.0\News.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\obj\Debug\netstandard2.0\News.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\bin\Debug\netstandard2.0\News.Common.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Services\bin\Debug\netstandard2.0\News.Common.pdb

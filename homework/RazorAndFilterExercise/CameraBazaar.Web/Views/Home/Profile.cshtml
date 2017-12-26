@@ -1,0 +1,40 @@
+﻿@model ProfileViewModel
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="container">
+    <div class="col-md-12">
+        <div class="col-md-3">
+            <ul style="text-decoration: none; list-style: none; font-size: 20px; font-weight: bold">
+                <li style="display: block; border-bottom: 2px solid black;"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                <li style="display: block; border-bottom: 2px solid black;"><a asp-area="" asp-controller="Cameras" asp-action="All">All Cameras</a></li>
+                <li style="display: block; border-bottom: 2px solid black;"><a asp-area="" asp-controller="Cameras" asp-action="Add">Add Camera</a></li>
+                <li style="display: block; border-bottom: 2px solid black;"><a href="/home/profile?id=@Model.LoggedUserId">My Profile</a></li>
+                <li style="display: block; border-bottom: 2px solid black;"><a href="/home/edit?id=@Model.LoggedUserId">Edit My Profile</a></li>
+            </ul>
+            @await Html.PartialAsync("_LoginPartialTest")
+        </div>
+        <div class="col-md-9">
+            <div class="col-md-12">
+                @Model.Username
+                @if (Model.Id == Model.LoggedUserId)
+                {
+                    <a href="/home/edit?id=@Model.Id" class="btn btn-primary btn-sm">Edit Profile</a>
+                }
+                <h3>@Model.LastLogIn</h3>
+            </div>
+            <div class="col-md-12">
+                <ul style="list-style: none;">
+                    <li>Email: @Model.Email</li>
+                    <li>Phone: @Model.Phone</li>
+                    <li>Cameras: @Model.CamerasInStock in stock/ @Model.CamerasOutOfStock out of stock</li>
+                </ul>
+            </div>
+            @Html.Partial("_CameraDetails", Model.Cameras.ToList())
+        </div>
+    </div>
+</div>
+

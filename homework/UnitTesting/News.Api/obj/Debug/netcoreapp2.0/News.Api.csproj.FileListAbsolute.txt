@@ -1,0 +1,17 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\obj\Debug\netcoreapp2.0\News.Api.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\obj\Debug\netcoreapp2.0\News.Api.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\obj\Debug\netcoreapp2.0\News.Api.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\obj\Debug\netcoreapp2.0\News.Api.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Api.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Api.runtimeconfig.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Api.runtimeconfig.dev.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Api.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Api.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Common.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Common.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Data.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\bin\Debug\netcoreapp2.0\News.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\obj\Debug\netcoreapp2.0\News.Api.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\UnitTesting\News.Api\obj\Debug\netcoreapp2.0\News.Api.pdb

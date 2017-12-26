@@ -1,0 +1,9 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\BookShop\BookShop.Data\bin\Debug\netstandard2.0\BookShop.Data.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\BookShop\BookShop.Data\bin\Debug\netstandard2.0\BookShop.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\BookShop\BookShop.Data\bin\Debug\netstandard2.0\BookShop.Data.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\BookShop\BookShop.Data\obj\Debug\netstandard2.0\BookShop.Data.pdb

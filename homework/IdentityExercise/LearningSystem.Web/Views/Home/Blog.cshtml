@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ArticleModel>
+@{
+    ViewData["Title"] = "All Articles";
+}
+
+<h2>Articles</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+    <tr>
+        <th>Title</th>
+        <th>Content</th>
+        <th>Publish Date</th>
+        <th>Author</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var article in Model)
+    {
+        <tr>
+            <td>@article.Title</td>
+            <td>@article.Content</td>
+            <td>@article.PublishDate.ToShortDateString()</td>
+            <td>@article.Author</td>
+        </tr>
+    }
+    </tbody>
+</table>

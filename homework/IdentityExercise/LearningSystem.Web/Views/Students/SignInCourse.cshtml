@@ -1,0 +1,25 @@
+﻿@model CourseModel
+@{
+    ViewData["Title"] = "Sign In Course";
+}
+
+<h2>Sign up for course - @Model.Name</h2>
+
+<h3>From @Model.StartDate.ToShortDateString() To @Model.EndDate.ToShortDateString()</h3>
+<h3>@Model.Description</h3>
+
+@if ((string) ViewData["Signed"] == "no")
+{
+    <h3>Are you sure you want to sign up for the course?</h3>
+    <a href="/" class="btn btn-default">Back</a>
+    <form method="post">
+        <button type="submit" class="btn btn-success">Sign Up</button>
+    </form>
+}
+else
+{
+    <h3>You are already signed up for the course.</h3>
+    <a href="/" class="btn btn-default">Back</a>
+    <a class="btn btn-primary" href="/students/signoutofcourse?id=@Model.Id">Sign Out</a>
+}
+

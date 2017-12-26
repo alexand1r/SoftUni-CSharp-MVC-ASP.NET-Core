@@ -1,0 +1,16 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.runtimeconfig.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.runtimeconfig.dev.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Web.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Data.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

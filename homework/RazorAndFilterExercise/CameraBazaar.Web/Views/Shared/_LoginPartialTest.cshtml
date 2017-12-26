@@ -1,0 +1,13 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using CameraBazaar.Web.Models
+
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+<form asp-area="" asp-controller="Account" asp-action="Logout" method="post" id="logoutForm">
+    <ul style="text-decoration: none; list-style: none; font-size: 20px; font-weight: bold">
+        <li style="display: block; border-bottom: 2px solid black;">
+            <button style="font-size: 20px; font-weight: bold" type="submit" class="btn btn-link">Log out</button>
+        </li>
+    </ul>
+</form>

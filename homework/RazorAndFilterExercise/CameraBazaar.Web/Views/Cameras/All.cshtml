@@ -1,0 +1,24 @@
+﻿@model IEnumerable<CameraModel>
+@{
+    ViewData["Title"] = "All Cameras";
+}
+
+<h2>@ViewData["Title"]</h2>
+<div class="container">
+    @foreach (var camera in Model)
+    {
+        <div class="col-xs-6" style="padding: 15px; border: 1px solid black;">
+            <div class="col-xs-4">
+                <img src="@camera.ImageUrl" alt="camera" width="70" height="50" />
+            </div>
+            <div class="col-xs-4" style="padding: 10px;">
+                <div>@camera.Make @camera.Model</div>
+                <div><a href="/cameras/details?id=@camera.Id">Details</a></div>
+            </div>
+            <div class="col-xs-4" style="padding: 10px;">
+                <div>$@camera.Price.ToString("F2")</div>
+                <div style="color: @(camera.Stock == "IN STOCK" ? "green" : "red")">@camera.Stock</div>
+            </div>
+        </div>
+    }
+</div>

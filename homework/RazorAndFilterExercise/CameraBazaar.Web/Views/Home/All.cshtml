@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ProfileModel>
+
+@{
+    ViewData["Title"] = "All Users";
+}
+
+<h2>All Users</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+    <tr>
+        <th>Username</th>
+        <th>Email</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Username</td>
+            <td>@user.Email</td>
+            <td>
+                <a href="/home/roles/@user.Id" class="btn btn-default">Roles</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

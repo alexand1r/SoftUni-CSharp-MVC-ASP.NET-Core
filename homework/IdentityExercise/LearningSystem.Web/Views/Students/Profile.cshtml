@@ -1,0 +1,17 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<h2>Profile</h2>
+<a href="/students/edit?id=@Model.Id">Edit Profile</a>
+
+<h3>Username - @Model.UserName</h3>
+<h3>Email - @Model.Email</h3>
+<h3>Birth Date - @Model.BirthDate.ToShortDateString()</h3>
+<br/>
+@foreach (var course in Model.Courses)
+{
+    <h3>Course @course.Course.Name</h3>
+    <h3>Grade - @course.Grade</h3>
+}

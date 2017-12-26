@@ -1,0 +1,15 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\ASP.NET-Core-Essentials-Exercise\CarDealer.Services\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml

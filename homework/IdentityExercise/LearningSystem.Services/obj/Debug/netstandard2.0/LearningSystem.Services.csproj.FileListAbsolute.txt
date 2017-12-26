@@ -1,0 +1,11 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Services.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Data.pdb

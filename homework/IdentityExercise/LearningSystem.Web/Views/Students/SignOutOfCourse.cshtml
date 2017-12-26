@@ -1,0 +1,22 @@
+﻿@model CourseModel
+@{
+    ViewData["Title"] = "Sign Out of Course";
+}
+
+<h2>Sign out of Course - @Model.Name</h2>
+
+@if ((string)ViewData["Signed"] == "no")
+{
+    <h3>You are not signed up for the course.</h3>
+    <a href="/" class="btn btn-default">Back</a>
+    <a class="btn btn-primary" href="/students/signincourse?id=@Model.Id">Sign Up</a>
+}
+else
+{
+    <h3>Are you sure you want to sign out of the course?</h3>
+    <a href="/" class="btn btn-default">Back</a>
+    <form method="post">
+        <button type="submit" class="btn btn-success">Sign Out</button>
+    </form>
+}
+

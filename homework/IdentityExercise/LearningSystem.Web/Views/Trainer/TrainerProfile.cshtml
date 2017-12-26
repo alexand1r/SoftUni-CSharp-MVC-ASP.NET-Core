@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Course>
+@{
+    ViewData["Title"] = "Trainer Profile";
+}
+
+<h2>Trainer Profile</h2>
+
+@foreach (var course in Model)
+{
+    <h3>@course.Name - From @course.StartDate.ToShortDateString() To @course.EndDate.ToShortDateString() </h3>
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Grade</th>
+            <th>Action</th>
+        </tr>
+        </thead>
+        @foreach (var user in course.Users)
+        {
+            <tbody>
+            <tr>
+                <td>@user.User.UserName</td>
+                <td>@user.User.Email</td>
+                <td>@user?.Grade</td>
+                <td><a href="/trainer/setgrade?id=@user.User.Id"&course="@course.Id"></a></td>
+            </tr>
+            </tbody>
+        }
+    </table>
+}
+

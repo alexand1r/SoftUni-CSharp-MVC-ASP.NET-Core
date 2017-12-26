@@ -1,0 +1,11 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Services.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Services.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Data.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\RazorAndFilterExercise\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.pdb

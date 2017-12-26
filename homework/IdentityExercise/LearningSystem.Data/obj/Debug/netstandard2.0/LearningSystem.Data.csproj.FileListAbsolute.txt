@@ -1,0 +1,9 @@
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Data.deps.json
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.csprojResolveAssemblyReference.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.csproj.CoreCompileInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.AssemblyInfoInputs.cache
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.AssemblyInfo.cs
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Data.pdb
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.dll
+C:\softuni\C# MVC Framework - ASP.NET Core\homework\IdentityExercise\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.pdb
